@@ -1,0 +1,2 @@
+# STM32H750VBT6
+HAL-driver version for STM32H750VBT6
